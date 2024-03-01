@@ -1,1 +1,1 @@
-# Automation-Using-Python
+For this project, I created an algorithm that automates updating files used to control access to resources. “allow_list.txt” identifies IP addresses that are allowed access while “remove_list” contains restricted IP addresses.
